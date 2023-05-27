@@ -38,7 +38,7 @@ function mensajeEmergente(texto){
     mensaje.style.top = "-60px";
     mensaje.style.left = "50%";
     mensaje.style.transform = "translateX(-50%)";
-    mensaje.style.padding = "15px 150px";
+    mensaje.style.padding = "15px";
     mensaje.style.borderRadius = "5px";
     mensaje.style.zIndex = "10000";
     mensaje.className = "w-100 alert alert-light text-center shadow"
