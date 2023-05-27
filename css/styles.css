@@ -26,19 +26,21 @@ footer {
   background: rgba(0, 0, 0, 0.6);
 }
 
-#boton-enviar {
-  background: #96c93e;
-  border: none;
-}
-
 .underline{
   text-decoration:underline dotted;
 }
 
-#boton-verde {
+.boton-verde {
   background: #97c93e;
   color: white;
-  border: none;
+}
+.boton-verde:hover {
+  background: #71972e;
+  color: white;
+}
+.boton-verde:active {
+  background: #4f6b20 !important;
+  color: white !important;
 }
 
 .link-success {
