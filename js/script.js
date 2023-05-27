@@ -55,7 +55,7 @@ function mensajeEmergente(texto){
   }
 
 // funcion borrar
-function fnBorrar() {
+function borrar() {
     var totalAPagar = document.getElementById("totalAPagar");
     totalAPagar.innerHTML = "Total a pagar: $ ";
     mensajeEmergente("¡Formulario borrado exitosamente!");
@@ -67,4 +67,4 @@ btnCalcular.addEventListener('click', calcular);
 
 // asociar evento al botón borrar
 const btnBorrar = document.getElementById('btnBorrar');
-btnBorrar.addEventListener('click', fnBorrar);
+btnBorrar.addEventListener('click', borrar);
