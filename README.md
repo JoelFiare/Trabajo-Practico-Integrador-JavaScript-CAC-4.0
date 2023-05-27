@@ -8,7 +8,7 @@
 ## Deploy:
 Proyecto disponible online en GitHub Pages:
 
-https://joelfiare.github.io/Trabajo-Practico-Integrador-JavaScript-CAC-4.0/
+https://joelfiare.github.io/Trabajo-Practico-Integrador-JavaScript-CAC-4.0/ticket.html
 
 ## Consigna:
 - Deberán replicar la siguiente sección (es una sección que se debe agregar al integrador front-End) al presionar en el enlace “tickets”.
