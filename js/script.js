@@ -41,7 +41,7 @@ function mensajeEmergente(texto){
     mensaje.style.padding = "15px 150px";
     mensaje.style.borderRadius = "5px";
     mensaje.style.zIndex = "10000";
-    mensaje.className = "w-75 alert alert-light text-center shadow"
+    mensaje.className = "w-100 alert alert-light text-center shadow"
     document.body.appendChild(mensaje);
   
     setTimeout(() => {
