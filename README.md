@@ -15,6 +15,6 @@ https://joelfiare.github.io/Trabajo-Practico-Integrador-JavaScript-CAC-4.0/
 
 - Deberá contener la funcionalidad en Javascript, al momento de presionar el botón “Resumen”, deberá mostrar en la sección “Total a Pagar: $”, el monto correspondiente a la cantidad de tickets a comprar con el descuento correspondiente dependiendo la categoría seleccionada, existen 3 categorías, Estudiante, Trainee, Junior
 
-![final_front_2021](https://github.com/JoelFiare/Desarrollador-Full-Stack-Java-CAC4.0/blob/main/Trabajo-Practico-Integrador-Front/assets/img/final_front_2021.jpg)
+![final_js front_2021](https://github.com/JoelFiare/Trabajo-Practico-Integrador-JavaScript-CAC-4.0/blob/main/img/Final_js_front_2021.png)
 
 - La entrega será pegando el link de donde está alojado su trabajo, puede ser cualquiera de las siguientes alternativas ftp, servidor gratuito o github.
